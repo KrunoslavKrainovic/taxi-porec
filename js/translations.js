@@ -99,6 +99,21 @@ const translations = {
         faq7Q: "Možete li primiti velike grupe?",
         faq7A: "Da, imamo kombije koji mogu primiti do 8 putnika s prtljagom. Za veće grupe možemo organizirati više vozila.",
         
+        // Testimonials
+        testimonialsTitle: "Što Kažu Naši Kupci",
+        testimonialsSubtitle: "Prave recenzije zadovoljnih putnika",
+        testimonial1Text: "Izvrsna usluga! Vozač je bio točan, profesionalan, a auto besprijekorno čist. Naš transfer do aerodroma bio je bez stresa. Toplo preporučujem!",
+        testimonial1Author: "Sarah Johnson",
+        testimonial1Location: "Ujedinjena Kraljevina",
+        testimonial2Text: "Najbolja taxi usluga u Poreču! Vozač je govorio savršen engleski i dao nam odlične preporuke za restorane. Vrlo razumne cijene.",
+        testimonial2Author: "Marco Rossi",
+        testimonial2Location: "Italija",
+        testimonial3Text: "Koristili smo ih cijeli tjedan. Uvijek na vrijeme, čista vozila i poštene cijene. WhatsApp rezervacija je sve učinila tako jednostavnim!",
+        testimonial3Author: "Thomas Mueller",
+        testimonial3Location: "Njemačka",
+        testimonialsRating: "Ocjena <strong>4.9/5</strong> od <strong>127+ recenzija</strong>",
+        testimonialsBookBtn: "Rezerviraj Vožnju Sada",
+        
         // Contact
         contactTitle: "Kontaktirajte Nas",
         contactPhone: "Telefon",
@@ -214,6 +229,21 @@ const translations = {
         faq7Q: "Can you accommodate large groups?",
         faq7A: "Yes, we have vans that can accommodate up to 8 passengers with luggage. For larger groups, we can arrange multiple vehicles.",
         
+        // Testimonials
+        testimonialsTitle: "What Our Customers Say",
+        testimonialsSubtitle: "Real reviews from satisfied passengers",
+        testimonial1Text: "Excellent service! The driver was punctual, professional, and the car was spotless. Made our airport transfer stress-free. Highly recommend!",
+        testimonial1Author: "Sarah Johnson",
+        testimonial1Location: "United Kingdom",
+        testimonial2Text: "Best taxi service in Poreč! Driver spoke perfect English and gave us great recommendations for restaurants. Very reasonable prices too.",
+        testimonial2Author: "Marco Rossi",
+        testimonial2Location: "Italy",
+        testimonial3Text: "Used them for a week-long stay. Always on time, clean vehicles, and fair pricing. The WhatsApp booking made everything so easy!",
+        testimonial3Author: "Thomas Mueller",
+        testimonial3Location: "Germany",
+        testimonialsRating: "<strong>4.9/5</strong> rating from <strong>127+ reviews</strong>",
+        testimonialsBookBtn: "Book Your Ride Now",
+        
         // Contact
         contactTitle: "Get in Touch",
         contactPhone: "Phone",
@@ -328,6 +358,21 @@ const translations = {
         faq6A: "Monitoriamo gli arrivi dei voli e adattiamo gli orari di ritiro di conseguenza. Nessun costo aggiuntivo per ritardi dei voli.",
         faq7Q: "Potete ospitare gruppi numerosi?",
         faq7A: "Sì, abbiamo van che possono ospitare fino a 8 passeggeri con bagagli. Per gruppi più grandi, possiamo organizzare più veicoli.",
+        
+        // Testimonials
+        testimonialsTitle: "Cosa Dicono i Nostri Clienti",
+        testimonialsSubtitle: "Recensioni reali da passeggeri soddisfatti",
+        testimonial1Text: "Servizio eccellente! L'autista era puntuale, professionale e l'auto era impeccabile. Il nostro transfer aeroportuale è stato senza stress. Altamente raccomandato!",
+        testimonial1Author: "Sarah Johnson",
+        testimonial1Location: "Regno Unito",
+        testimonial2Text: "Miglior servizio taxi a Parenzo! L'autista parlava un inglese perfetto e ci ha dato ottimi consigli per i ristoranti. Prezzi molto ragionevoli.",
+        testimonial2Author: "Marco Rossi",
+        testimonial2Location: "Italia",
+        testimonial3Text: "Li abbiamo usati per un soggiorno di una settimana. Sempre puntuali, veicoli puliti e prezzi onesti. La prenotazione WhatsApp ha reso tutto così facile!",
+        testimonial3Author: "Thomas Mueller",
+        testimonial3Location: "Germania",
+        testimonialsRating: "Valutazione <strong>4.9/5</strong> da <strong>127+ recensioni</strong>",
+        testimonialsBookBtn: "Prenota la Tua Corsa Ora",
         
         // Contact
         contactTitle: "Contattaci",

@@ -123,6 +123,21 @@
         setText('[data-i18n="faq7Q"]', trans.faq7Q);
         setText('[data-i18n="faq7A"]', trans.faq7A);
         
+        // Testimonials
+        setText('[data-i18n="testimonialsTitle"]', trans.testimonialsTitle);
+        setText('[data-i18n="testimonialsSubtitle"]', trans.testimonialsSubtitle);
+        setText('[data-i18n="testimonial1Text"]', trans.testimonial1Text);
+        setText('[data-i18n="testimonial1Author"]', trans.testimonial1Author);
+        setText('[data-i18n="testimonial1Location"]', trans.testimonial1Location);
+        setText('[data-i18n="testimonial2Text"]', trans.testimonial2Text);
+        setText('[data-i18n="testimonial2Author"]', trans.testimonial2Author);
+        setText('[data-i18n="testimonial2Location"]', trans.testimonial2Location);
+        setText('[data-i18n="testimonial3Text"]', trans.testimonial3Text);
+        setText('[data-i18n="testimonial3Author"]', trans.testimonial3Author);
+        setText('[data-i18n="testimonial3Location"]', trans.testimonial3Location);
+        setHTML('[data-i18n="testimonialsRating"]', trans.testimonialsRating);
+        setText('[data-i18n="testimonialsBookBtn"]', trans.testimonialsBookBtn);
+        
         // Contact
         setText('[data-i18n="contactTitle"]', trans.contactTitle);
         setText('[data-i18n="contactPhone"]', trans.contactPhone);
@@ -147,6 +162,13 @@
         const elements = document.querySelectorAll(selector);
         elements.forEach(el => {
             if (el) el.textContent = text;
+        });
+    }
+    
+    function setHTML(selector, html) {
+        const elements = document.querySelectorAll(selector);
+        elements.forEach(el => {
+            if (el) el.innerHTML = html;
         });
     }
     
