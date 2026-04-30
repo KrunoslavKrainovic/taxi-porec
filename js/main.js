@@ -122,6 +122,12 @@
         setText('[data-i18n="faq6A"]', trans.faq6A);
         setText('[data-i18n="faq7Q"]', trans.faq7Q);
         setText('[data-i18n="faq7A"]', trans.faq7A);
+        setText('[data-i18n="faq8Q"]', trans.faq8Q);
+        setText('[data-i18n="faq8A"]', trans.faq8A);
+        setText('[data-i18n="faq9Q"]', trans.faq9Q);
+        setText('[data-i18n="faq9A"]', trans.faq9A);
+        setText('[data-i18n="faq11Q"]', trans.faq11Q);
+        setText('[data-i18n="faq11A"]', trans.faq11A);
         
         // Testimonials
         setText('[data-i18n="testimonialsTitle"]', trans.testimonialsTitle);
@@ -137,6 +143,28 @@
         setText('[data-i18n="testimonial3Location"]', trans.testimonial3Location);
         setHTML('[data-i18n="testimonialsRating"]', trans.testimonialsRating);
         setText('[data-i18n="testimonialsBookBtn"]', trans.testimonialsBookBtn);
+        
+        // Business Summary
+        setHTML('[data-i18n="businessSummary1"]', trans.businessSummary1);
+        setText('[data-i18n="businessSummary2"]', trans.businessSummary2);
+        
+        // Routes
+        setText('[data-i18n="routesTitle"]', trans.routesTitle);
+        setText('[data-i18n="route1Title"]', trans.route1Title);
+        setText('[data-i18n="route1Desc"]', trans.route1Desc);
+        setText('[data-i18n="route2Title"]', trans.route2Title);
+        setText('[data-i18n="route2Desc"]', trans.route2Desc);
+        setText('[data-i18n="route3Title"]', trans.route3Title);
+        setText('[data-i18n="route3Desc"]', trans.route3Desc);
+        setText('[data-i18n="route4Title"]', trans.route4Title);
+        setText('[data-i18n="route4Desc"]', trans.route4Desc);
+        
+        // Coverage
+        setText('[data-i18n="coverageTitle"]', trans.coverageTitle);
+        setHTML('[data-i18n="coverageDesc"]', trans.coverageDesc);
+        setText('[data-i18n="coverageLocal"]', trans.coverageLocal);
+        setText('[data-i18n="coverageAirports"]', trans.coverageAirports);
+        setText('[data-i18n="coverageInternational"]', trans.coverageInternational);
         
         // Contact
         setText('[data-i18n="contactTitle"]', trans.contactTitle);
