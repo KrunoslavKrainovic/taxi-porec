@@ -514,7 +514,7 @@
        INITIALIZE
        ============================================ */
     console.log('Taxi Poreč website initialized');
-    console.log('Contact: +385 91 199 7551');
+    console.log('Contact: +385 98743679');
     console.log('Email: info@porectaxi.com');
     
 })();

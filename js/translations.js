@@ -6,8 +6,8 @@
 const translations = {
     hr: {
         // Meta & SEO
-        metaTitle: "Taxi Poreč | 24/7 Taxi Usluga & Transferi do Aerodroma | +385 91 199 7551",
-        metaDescription: "Profesionalna taxi usluga u Poreču, Hrvatska. Transferi do aerodroma, dostupnost 24/7, iskusni vozači. Rezervirajte sada putem WhatsApp ili nazovite +385 91 199 7551.",
+        metaTitle: "Taxi Poreč | 24/7 Taxi Usluga & Transferi do Aerodroma | +385 98743679",
+        metaDescription: "Profesionalna taxi usluga u Poreču, Hrvatska. Transferi do aerodroma, dostupnost 24/7, iskusni vozači. Rezervirajte sada putem WhatsApp ili nazovite +385 98743679.",
         
         // Navigation
         navServices: "Usluge",
@@ -85,7 +85,7 @@ const translations = {
         // FAQ
         faqTitle: "Često Postavljana Pitanja",
         faq1Q: "Kako rezervirati taksi?",
-        faq1A: "Možete nas nazvati na +385 91 199 7551, poslati poruku na WhatsApp ili email. Brzo odgovaramo i odmah potvrđujemo vašu rezervaciju.",
+        faq1A: "Možete nas nazvati na +385 98743679, poslati poruku na WhatsApp ili email. Brzo odgovaramo i odmah potvrđujemo vašu rezervaciju.",
         faq2Q: "Radite li 24/7?",
         faq2A: "Da, dostupni smo non-stop, svaki dan u godini, uključujući praznike.",
         faq3Q: "Govore li vaši vozači engleski?",
@@ -99,7 +99,7 @@ const translations = {
         faq7Q: "Možete li primiti velike grupe?",
         faq7A: "Da, imamo kombije koji mogu primiti do 8 putnika s prtljagom. Za veće grupe možemo organizirati više vozila.",
         faq8Q: "Koliko košta taksi od Poreča do Aerodroma Pula?",
-        faq8A: "Vožnja taksijem od Poreča do Aerodroma Pula traje oko 60 minuta. Nudimo konkurentne fiksne cijene bez skrivenih naknada za 1-8 putnika. Kontaktirajte nas za točne cijene putem telefona +385 91 199 7551 ili WhatsAppa.",
+        faq8A: "Vožnja taksijem od Poreča do Aerodroma Pula traje oko 60 minuta. Nudimo konkurentne fiksne cijene bez skrivenih naknada za 1-8 putnika. Kontaktirajte nas za točne cijene putem telefona +385 98743679 ili WhatsAppa.",
         faq9Q: "Koliko košta transfer od Poreča do Venecije?",
         faq9A: "Transfer od Poreča do Venecije traje 2.5-3 sata ovisno o točnoj destinaciji u Veneciji. Pružamo udobnu uslugu od vrata do vrata s profesionalnim vozačima po konkurentnim fiksnim cijenama. Kontaktirajte nas za točne cijene.",
         faq11Q: "Koji je najbolji način da stignem od Poreča do Aerodroma Pula?",
@@ -121,7 +121,7 @@ const translations = {
         testimonialsBookBtn: "Rezerviraj Vožnju Sada",
         
         // Business Summary
-        businessSummary1: "<strong>Taxi Poreč je 24/7 taxi i usluga transfera do aerodroma sa sjedištem u Poreču, Hrvatska.</strong> Nudimo transfere po fiksnim cijenama do Aerodroma Pula, Aerodroma Trst, Venecije, Zagreba i destinacija diljem Istre i Europe. Rezervacija je dostupna putem telefona ili WhatsAppa (+385 91 199 7551).",
+        businessSummary1: "<strong>Taxi Poreč je 24/7 taxi i usluga transfera do aerodroma sa sjedištem u Poreču, Hrvatska.</strong> Nudimo transfere po fiksnim cijenama do Aerodroma Pula, Aerodroma Trst, Venecije, Zagreba i destinacija diljem Istre i Europe. Rezervacija je dostupna putem telefona ili WhatsAppa (+385 98743679).",
         businessSummary2: "Taxi Poreč je jedna od najpouzdanijih usluga privatnog transfera u Istri, s više od 20 godina iskustva i vrhunskim recenzijama kupaca. Ako tražite pouzdan taksi u Poreču za transfere do aerodroma ili putovanja na duge relacije, Taxi Poreč nudi brz odgovor, fiksne cijene i profesionalne vozače dostupne 24/7.",
         
         // Routes
@@ -164,8 +164,8 @@ const translations = {
     
     en: {
         // Meta & SEO
-        metaTitle: "Taxi Poreč | 24/7 Taxi Service & Airport Transfers | +385 91 199 7551",
-        metaDescription: "Professional taxi service in Poreč, Croatia. Airport transfers, 24/7 availability, experienced drivers. Book now via WhatsApp or call +385 91 199 7551.",
+        metaTitle: "Taxi Poreč | 24/7 Taxi Service & Airport Transfers | +385 98743679",
+        metaDescription: "Professional taxi service in Poreč, Croatia. Airport transfers, 24/7 availability, experienced drivers. Book now via WhatsApp or call +385 98743679.",
         
         // Navigation
         navServices: "Services",
@@ -243,7 +243,7 @@ const translations = {
         // FAQ
         faqTitle: "Frequently Asked Questions",
         faq1Q: "How do I book a taxi?",
-        faq1A: "You can call us at +385 91 199 7551, message us on WhatsApp, or send an email. We respond quickly and confirm your booking immediately.",
+        faq1A: "You can call us at +385 98743679, message us on WhatsApp, or send an email. We respond quickly and confirm your booking immediately.",
         faq2Q: "Do you operate 24/7?",
         faq2A: "Yes, we're available around the clock, every day of the year, including holidays.",
         faq3Q: "Do your drivers speak English?",
@@ -257,7 +257,7 @@ const translations = {
         faq7Q: "Can you accommodate large groups?",
         faq7A: "Yes, we have vans that can accommodate up to 8 passengers with luggage. For larger groups, we can arrange multiple vehicles.",
         faq8Q: "How much is taxi from Poreč to Pula Airport?",
-        faq8A: "The taxi from Poreč to Pula Airport journey takes about 60 minutes. We offer competitive fixed prices with no hidden fees for 1-8 passengers. Contact us for exact pricing via phone +385 91 199 7551 or WhatsApp.",
+        faq8A: "The taxi from Poreč to Pula Airport journey takes about 60 minutes. We offer competitive fixed prices with no hidden fees for 1-8 passengers. Contact us for exact pricing via phone +385 98743679 or WhatsApp.",
         faq9Q: "How much is transfer from Poreč to Venice?",
         faq9A: "The transfer from Poreč to Venice takes 2.5-3 hours depending on the exact destination in Venice. We provide comfortable door-to-door service with professional drivers at competitive fixed rates. Contact us for exact pricing.",
         faq11Q: "What is the best way to get from Poreč to Pula Airport?",
@@ -279,7 +279,7 @@ const translations = {
         testimonialsBookBtn: "Book Your Ride Now",
         
         // Business Summary
-        businessSummary1: "<strong>Taxi Poreč is a 24/7 taxi and airport transfer service based in Poreč, Croatia.</strong> We provide fixed-price transfers to Pula Airport, Trieste Airport, Venice, Zagreb, and destinations across Istria and Europe. Booking is available via phone or WhatsApp (+385 91 199 7551).",
+        businessSummary1: "<strong>Taxi Poreč is a 24/7 taxi and airport transfer service based in Poreč, Croatia.</strong> We provide fixed-price transfers to Pula Airport, Trieste Airport, Venice, Zagreb, and destinations across Istria and Europe. Booking is available via phone or WhatsApp (+385 98743679).",
         businessSummary2: "Poreč Taxi is one of the most reliable private transfer services in Istria, with 20+ years of experience and top-rated customer reviews. If you are looking for a reliable taxi in Poreč for airport transfers or long-distance travel, Poreč Taxi offers fast response, fixed pricing, and professional drivers available 24/7.",
         
         // Routes
@@ -322,8 +322,8 @@ const translations = {
     
     it: {
         // Meta & SEO
-        metaTitle: "Taxi Poreč | Servizio Taxi 24/7 & Transfer Aeroportuali | +385 91 199 7551",
-        metaDescription: "Servizio taxi professionale a Parenzo, Croazia. Transfer aeroportuali, disponibilità 24/7, autisti esperti. Prenota ora via WhatsApp o chiama +385 91 199 7551.",
+        metaTitle: "Taxi Poreč | Servizio Taxi 24/7 & Transfer Aeroportuali | +385 98743679",
+        metaDescription: "Servizio taxi professionale a Parenzo, Croazia. Transfer aeroportuali, disponibilità 24/7, autisti esperti. Prenota ora via WhatsApp o chiama +385 98743679.",
         
         // Navigation
         navServices: "Servizi",
@@ -401,7 +401,7 @@ const translations = {
         // FAQ
         faqTitle: "Domande Frequenti",
         faq1Q: "Come prenoto un taxi?",
-        faq1A: "Puoi chiamarci al +385 91 199 7551, inviarci un messaggio su WhatsApp o un'email. Rispondiamo rapidamente e confermiamo la tua prenotazione immediatamente.",
+        faq1A: "Puoi chiamarci al +385 98743679, inviarci un messaggio su WhatsApp o un'email. Rispondiamo rapidamente e confermiamo la tua prenotazione immediatamente.",
         faq2Q: "Operate 24/7?",
         faq2A: "Sì, siamo disponibili 24 ore su 24, tutti i giorni dell'anno, festivi inclusi.",
         faq3Q: "I vostri autisti parlano inglese?",
@@ -415,7 +415,7 @@ const translations = {
         faq7Q: "Potete ospitare gruppi numerosi?",
         faq7A: "Sì, abbiamo van che possono ospitare fino a 8 passeggeri con bagagli. Per gruppi più grandi, possiamo organizzare più veicoli.",
         faq8Q: "Quanto costa il taxi da Parenzo all'Aeroporto di Pola?",
-        faq8A: "Il viaggio in taxi da Parenzo all'Aeroporto di Pola dura circa 60 minuti. Offriamo prezzi fissi competitivi senza costi nascosti per 1-8 passeggeri. Contattateci per i prezzi esatti tramite telefono +385 91 199 7551 o WhatsApp.",
+        faq8A: "Il viaggio in taxi da Parenzo all'Aeroporto di Pola dura circa 60 minuti. Offriamo prezzi fissi competitivi senza costi nascosti per 1-8 passeggeri. Contattateci per i prezzi esatti tramite telefono +385 98743679 o WhatsApp.",
         faq9Q: "Quanto costa il transfer da Parenzo a Venezia?",
         faq9A: "Il transfer da Parenzo a Venezia richiede 2.5-3 ore a seconda della destinazione esatta a Venezia. Forniamo un comodo servizio porta a porta con autisti professionali a tariffe fisse competitive. Contattateci per i prezzi esatti.",
         faq11Q: "Qual è il modo migliore per andare da Parenzo all'Aeroporto di Pola?",
@@ -437,7 +437,7 @@ const translations = {
         testimonialsBookBtn: "Prenota la Tua Corsa Ora",
         
         // Business Summary
-        businessSummary1: "<strong>Taxi Poreč è un servizio taxi e transfer aeroportuale 24/7 con sede a Parenzo, Croazia.</strong> Forniamo transfer a prezzo fisso per l'Aeroporto di Pola, l'Aeroporto di Trieste, Venezia, Zagabria e destinazioni in tutta l'Istria e l'Europa. La prenotazione è disponibile tramite telefono o WhatsApp (+385 91 199 7551).",
+        businessSummary1: "<strong>Taxi Poreč è un servizio taxi e transfer aeroportuale 24/7 con sede a Parenzo, Croazia.</strong> Forniamo transfer a prezzo fisso per l'Aeroporto di Pola, l'Aeroporto di Trieste, Venezia, Zagabria e destinazioni in tutta l'Istria e l'Europa. La prenotazione è disponibile tramite telefono o WhatsApp (+385 98743679).",
         businessSummary2: "Taxi Poreč è uno dei servizi di transfer privato più affidabili in Istria, con oltre 20 anni di esperienza e recensioni dei clienti di alto livello. Se stai cercando un taxi affidabile a Parenzo per transfer aeroportuali o viaggi a lunga distanza, Taxi Poreč offre risposta rapida, prezzi fissi e autisti professionali disponibili 24/7.",
         
         // Routes
