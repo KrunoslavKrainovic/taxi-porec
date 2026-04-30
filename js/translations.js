@@ -91,13 +91,13 @@ const translations = {
         faq3Q: "Govore li vaši vozači engleski?",
         faq3A: "Da, svi naši vozači govore engleski. Mnogi također govore njemački i talijanski.",
         faq4Q: "Mogu li platiti karticom?",
-        faq4A: "Da, prihvaćamo gotovinu (HRK i EUR) kao i kreditne/debitne kartice.",
+        faq4A: "Da, prihvaćamo gotovinu (EUR) kao i kreditne/debitne kartice.",
         faq5Q: "Pružate li dječje sjedalice?",
         faq5A: "Da, dječje sjedalice su dostupne na zahtjev. Molimo navedite to prilikom rezervacije.",
         faq6Q: "Što ako moj let kasni?",
         faq6A: "Pratimo dolaske letova i prilagođavamo vrijeme preuzimanja. Nema dodatne naplate za kašnjenje leta.",
         faq7Q: "Možete li primiti velike grupe?",
-        faq7A: "Da, imamo kombije koji mogu primiti do 6 putnika s prtljagom. Za veće grupe možemo organizirati više vozila.",
+        faq7A: "Da, imamo kombije koji mogu primiti do 8 putnika s prtljagom. Za veće grupe možemo organizirati više vozila.",
         
         // Contact
         contactTitle: "Kontaktirajte Nas",
@@ -206,13 +206,13 @@ const translations = {
         faq3Q: "Do your drivers speak English?",
         faq3A: "Yes, all our drivers speak English. Many also speak German and Italian.",
         faq4Q: "Can I pay by card?",
-        faq4A: "Yes, we accept cash (HRK and EUR) as well as credit/debit cards.",
+        faq4A: "Yes, we accept cash (EUR) as well as credit/debit cards.",
         faq5Q: "Do you provide child seats?",
         faq5A: "Yes, child seats are available upon request. Please mention this when booking.",
         faq6Q: "What if my flight is delayed?",
         faq6A: "We monitor flight arrivals and adjust pickup times accordingly. No extra charge for flight delays.",
         faq7Q: "Can you accommodate large groups?",
-        faq7A: "Yes, we have vans that can accommodate up to 6 passengers with luggage. For larger groups, we can arrange multiple vehicles.",
+        faq7A: "Yes, we have vans that can accommodate up to 8 passengers with luggage. For larger groups, we can arrange multiple vehicles.",
         
         // Contact
         contactTitle: "Get in Touch",
@@ -321,13 +321,13 @@ const translations = {
         faq3Q: "I vostri autisti parlano inglese?",
         faq3A: "Sì, tutti i nostri autisti parlano inglese. Molti parlano anche tedesco e italiano.",
         faq4Q: "Posso pagare con carta?",
-        faq4A: "Sì, accettiamo contanti (HRK ed EUR) e carte di credito/debito.",
+        faq4A: "Sì, accettiamo contanti (EUR) e carte di credito/debito.",
         faq5Q: "Fornite seggiolini per bambini?",
         faq5A: "Sì, i seggiolini per bambini sono disponibili su richiesta. Si prega di menzionarlo al momento della prenotazione.",
         faq6Q: "Cosa succede se il mio volo è in ritardo?",
         faq6A: "Monitoriamo gli arrivi dei voli e adattiamo gli orari di ritiro di conseguenza. Nessun costo aggiuntivo per ritardi dei voli.",
         faq7Q: "Potete ospitare gruppi numerosi?",
-        faq7A: "Sì, abbiamo van che possono ospitare fino a 6 passeggeri con bagagli. Per gruppi più grandi, possiamo organizzare più veicoli.",
+        faq7A: "Sì, abbiamo van che possono ospitare fino a 8 passeggeri con bagagli. Per gruppi più grandi, possiamo organizzare più veicoli.",
         
         // Contact
         contactTitle: "Contattaci",

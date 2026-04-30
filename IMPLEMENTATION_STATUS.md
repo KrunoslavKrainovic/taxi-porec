@@ -90,7 +90,7 @@ taxi-porec/
 │   └── main.js               ✅ Complete
 ├── images/
 │   ├── hero/
-│   │   └── hero-main.avif    ✅ Available
+│   │   └── hero-main.jpeg    ✅ Available
 │   ├── logo/                 ⏳ Placeholder (text-based)
 │   ├── favicon/              ⏳ To be created
 │   ├── fleet/                ⏳ To be sourced

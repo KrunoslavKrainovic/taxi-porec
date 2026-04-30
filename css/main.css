@@ -529,7 +529,7 @@ button {
     align-items: center;
     justify-content: center;
     background: linear-gradient(135deg, var(--primary-navy) 0%, var(--secondary-charcoal) 100%);
-    background-image: url('../images/hero/hero-main.avif');
+    background-image: url('../images/hero/hero-main.jpeg');
     background-size: cover;
     background-position: center;
     color: var(--text-inverse);
@@ -835,6 +835,142 @@ button {
 .about-feature svg {
     color: var(--accent-success);
     flex-shrink: 0;
+}
+
+/* ============================================
+   BREADCRUMB NAVIGATION
+   ============================================ */
+.breadcrumb {
+    background: var(--bg-secondary);
+    padding: var(--space-2) 0;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.breadcrumb-list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: var(--text-sm);
+}
+
+.breadcrumb-list li {
+    display: flex;
+    align-items: center;
+}
+
+.breadcrumb-list li:not(:last-child)::after {
+    content: "›";
+    margin: 0 var(--space-2);
+    color: var(--text-secondary);
+}
+
+.breadcrumb-list a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: color var(--transition-base);
+}
+
+.breadcrumb-list a:hover {
+    color: var(--primary-gold);
+}
+
+.breadcrumb-list li:last-child span {
+    color: var(--text-primary);
+    font-weight: var(--font-medium);
+}
+
+/* ============================================
+   TESTIMONIALS SECTION
+   ============================================ */
+.testimonials {
+    background: var(--bg-primary);
+}
+
+.section-subtitle {
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: var(--text-lg);
+    margin-top: var(--space-2);
+    margin-bottom: var(--space-12);
+}
+
+.testimonials-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-6);
+    margin-bottom: var(--space-12);
+}
+
+@media (min-width: 768px) {
+    .testimonials-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.testimonial-card {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-light);
+    border-radius: var(--border-radius-lg);
+    padding: var(--space-6);
+    transition: all var(--transition-base);
+}
+
+.testimonial-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    border-color: var(--primary-gold);
+}
+
+.testimonial-rating {
+    margin-bottom: var(--space-4);
+}
+
+.stars {
+    font-size: var(--text-lg);
+    color: var(--primary-gold);
+}
+
+.testimonial-text {
+    color: var(--text-primary);
+    font-size: var(--text-base);
+    line-height: 1.6;
+    margin-bottom: var(--space-4);
+    font-style: italic;
+}
+
+.testimonial-author {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+}
+
+.testimonial-author strong {
+    color: var(--text-primary);
+    font-weight: var(--font-semibold);
+}
+
+.testimonial-location {
+    color: var(--text-secondary);
+    font-size: var(--text-sm);
+}
+
+.testimonials-cta {
+    text-align: center;
+    padding-top: var(--space-8);
+    border-top: 1px solid var(--border-light);
+}
+
+.testimonials-rating-summary {
+    font-size: var(--text-lg);
+    color: var(--text-primary);
+    margin-bottom: var(--space-6);
+}
+
+.testimonials-rating-summary strong {
+    color: var(--primary-gold);
+    font-size: var(--text-xl);
 }
 
 /* ============================================
